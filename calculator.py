@@ -6,3 +6,4 @@ class calculator:
     def multiply(self,a,b):
         return a*b
     
+    
